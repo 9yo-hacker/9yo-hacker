@@ -1,2 +1,2 @@
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ & C#
